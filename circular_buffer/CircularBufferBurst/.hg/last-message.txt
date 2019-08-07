@@ -1,0 +1,1 @@
+Removed unneeded closing and reopening of the board. 

@@ -1,0 +1,16 @@
+C:\4D\Repos\CircularBufferBurst\CircularBufferBurst\bin\Debug\CircularBufferBurst.exe.config
+C:\4D\Repos\CircularBufferBurst\CircularBufferBurst\bin\Debug\CircularBufferBurst.exe
+C:\4D\Repos\CircularBufferBurst\CircularBufferBurst\bin\Debug\CircularBufferBurst.pdb
+C:\4D\Repos\CircularBufferBurst\CircularBufferBurst\bin\Debug\BufferAcquisition.dll
+C:\4D\Repos\CircularBufferBurst\CircularBufferBurst\bin\Debug\CLAllSerial.NET.dll
+C:\4D\Repos\CircularBufferBurst\CircularBufferBurst\bin\Debug\ManagedBid.dll
+C:\4D\Repos\CircularBufferBurst\CircularBufferBurst\obj\Debug\CircularBufferBurst.csprojResolveAssemblyReference.cache
+C:\4D\Repos\CircularBufferBurst\CircularBufferBurst\obj\Debug\MainWindow.baml
+C:\4D\Repos\CircularBufferBurst\CircularBufferBurst\obj\Debug\MainWindow.g.cs
+C:\4D\Repos\CircularBufferBurst\CircularBufferBurst\obj\Debug\App.g.cs
+C:\4D\Repos\CircularBufferBurst\CircularBufferBurst\obj\Debug\CircularBufferBurst_MarkupCompile.cache
+C:\4D\Repos\CircularBufferBurst\CircularBufferBurst\obj\Debug\CircularBufferBurst.g.resources
+C:\4D\Repos\CircularBufferBurst\CircularBufferBurst\obj\Debug\CircularBufferBurst.Properties.Resources.resources
+C:\4D\Repos\CircularBufferBurst\CircularBufferBurst\obj\Debug\CircularBufferBurst.csproj.GenerateResource.Cache
+C:\4D\Repos\CircularBufferBurst\CircularBufferBurst\obj\Debug\CircularBufferBurst.exe
+C:\4D\Repos\CircularBufferBurst\CircularBufferBurst\obj\Debug\CircularBufferBurst.pdb

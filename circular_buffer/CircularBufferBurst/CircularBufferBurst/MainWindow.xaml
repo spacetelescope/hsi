@@ -1,0 +1,22 @@
+﻿<Window x:Class="CircularBufferBurst.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow"
+        Width="525"
+        Height="350">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Button Width="50"
+                Height="25"
+                Command="{Binding StartAcquisiontionCommand}"
+                Content="Start" />
+        <Button Grid.Row="1"
+                Width="50"
+                Height="25"
+                Command="{Binding StopAcquisiontionCommand}"
+                Content="Stop" />
+    </Grid>
+</Window>
